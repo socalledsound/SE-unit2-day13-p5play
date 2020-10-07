@@ -11,6 +11,7 @@ function preload() {
   //create an animation from a sequence of numbered images
 
     alien = loadAnimation('img/alien0.png', 'img/alien21.png')
+    
 
   //pass the first and the last file name and it will try to find the ones in between
 //   ghost = loadAnimation('assets/ghost_standing0001.png', 'assets/ghost_standing0007.png');
